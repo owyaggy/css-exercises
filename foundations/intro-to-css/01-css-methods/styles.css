@@ -1,0 +1,9 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    font-weight: bold;
+    /*padding-top: 5px;*/
+}
